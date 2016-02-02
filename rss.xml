@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[inloves]]></title>
         <description><![CDATA[inloves]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/inloves/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 05:39:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 12:00:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/inloves/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/670802e2-bba9-4193-b8d7-af292b739877.png">]]></description>
-            <link>undefinedbd85d1ba-b619-4753-9da3-0358099e2490/index.html</link>
+            <title><![CDATA[InLoves Indicator Cycling Safety Gloves]]></title>
+            <description><![CDATA[<article><h1>InLoves Indicator Cycling Safety Gloves</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dac1857d9a404f52ae9afa0613d4f4e9822eb7e8.png"></article>]]></description>
+            <link>https://thegrid.ai/inloves/bd85d1ba-b619-4753-9da3-0358099e2490/index.html</link>
             <guid isPermaLink="false">bd85d1ba-b619-4753-9da3-0358099e2490</guid>
-            <pubDate>Sat, 30 Jan 2016 05:38:58 GMT</pubDate>
+            <pubDate>Tue, 02 Feb 2016 12:00:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
