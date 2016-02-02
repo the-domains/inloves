@@ -1,20 +1,4 @@
-name: inloves
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.13551
-title: "Inloves Cycling Safety Indicator Gloves - Don't just be seen, be understood!"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -24,6 +8,11 @@ color:
     - '#71452e'
   brandStrength: 0.5
   lightness: 1
-  saturation: 0.5
   rhythmicContrast: 0
+  saturation: 0.5
+cta: {}
+layout_spectrum: 0.773848
+name: inloves
+opengraph: {}
 purpose: []
+typography_spectrum: 0.13551
